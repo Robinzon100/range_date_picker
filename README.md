@@ -1,1 +1,1 @@
-# H1 Range Date Picker with Lightpick
+# Range Date Picker with Lightpick
